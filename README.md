@@ -13,7 +13,7 @@ I am a passionate Computer Science student with a strong focus on **Internet of 
 - 🔭 I’m currently working on **ESP32 Smart Home Hub**.
 - 🌱 I’m currently learning **Edge AI and MQTT**.
 - 💬 Ask me about **C++, Java, Arduino, and ESP32**.
-- 📫 How to reach me: **[حط ايميلك هنا]**
+- 📫 How to reach me: [mo3hame3d741@gmail.com]**
 
 ---
 
