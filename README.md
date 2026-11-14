@@ -1,19 +1,22 @@
-# Hi there 👋, I'm Mohamed Emad
+# Hi, I'm Mohamed Emad 👋
 
-I'm a Computer Science student who is really passionate about **Internet of Things (IoT)** and **Embedded Systems**. I enjoy building projects that connect hardware with software to solve everyday problems.
+### Computer Science Student | IoT & Embedded Systems Enthusiast
 
-### 🚀 A little bit about me:
-- 🔭 I’m currently working on an **ESP32 Smart Home Hub** project.
-- 🌱 I’m currently learning more about **MQTT and Firebase**.
-- 💻 I mostly work with: **C++, Java, Arduino, and ESP32**.
-- 🎯 My goal is to build smart, reliable systems.
-- ☕ I love coffee and turning random ideas into working prototypes!
-
-### 🛠️ Tools I use:
-`C++` | `Java` | `Arduino IDE` | `Android Studio` | `Firebase` | `Git`
+I am a Computer Science student with a strong passion for building hardware-software solutions that solve everyday problems. My focus is on the Internet of Things (IoT) and Embedded Systems.
 
 ---
-📫 **How to reach me:**
-- Email: mo3hamd3d741@gmail.com
 
-Thanks for stopping by! Feel free to explore my repositories.
+### 🚀 Current Focus & Projects
+*   **ESP32 Smart Home Hub:** Developing a centralized, reliable smart home system using ESP32.
+*   **Learning:** Deepening my knowledge in MQTT protocols and Firebase integration.
+
+### 🛠️ Tech Stack
+*   **Languages:** C++, Java
+*   **Hardware & IoT:** Arduino, ESP32
+*   **Tools & Frameworks:** Android Studio, Firebase, Git, MQTT
+
+### 📫 How to reach me
+*   **Email:** mo3hamd3d741@gmail.com
+
+---
+*"Turning random ideas into working prototypes."*
